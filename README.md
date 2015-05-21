@@ -1,4 +1,4 @@
-# kintone devCamp Vol.2 LT
+# kintone hive LT
 
 ## View slides locally
 
